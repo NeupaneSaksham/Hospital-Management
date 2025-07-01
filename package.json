@@ -3,6 +3,13 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
+  "contributors": [
+    "Pramesh (ID: EMP-001)",
+    "Samir Adhikari (ID: EMP-002)",
+    "Nishant Thapa (ID: EMP-003)",
+    "Bibek Thapa (ID: EMP-004)",
+    "Sudhan Khadka (ID: EMP-005)"
+  ],
   "scripts": {
     "dev": "vite",
     "build": "tsc -b && vite build",
