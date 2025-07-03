@@ -11,3 +11,5 @@ export default function DashboardLoader({ children }: { children: ReactNode }) {
 
   return <>{children}</>
 }
+
+// minor logic update 6943
