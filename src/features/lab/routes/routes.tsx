@@ -33,3 +33,5 @@ export default function LabRoutes() {
     </Routes>
   )
 }
+
+// minor logic update 2297
