@@ -86,3 +86,5 @@ export default function StockTable({ items, onEdit, onView, onDelete }: StockTab
 }
 
 
+
+// minor logic update 1262
