@@ -14,3 +14,5 @@ export default function InfoRow({ label, value }: InfoRowProps) {
     </div>
   );
 }
+
+// minor logic update 4846
