@@ -4,3 +4,4 @@ export interface Property {
     id: string,
     name: string | Stock
 }
+// minor logic update 7244
