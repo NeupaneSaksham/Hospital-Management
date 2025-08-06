@@ -36,3 +36,5 @@ export const helperFunc_627 = () => console.log('Helper helperFunc_627 executed'
 export const helperFunc_414 = () => console.log('Helper helperFunc_414 executed');
 
 export const helperFunc_845 = () => console.log('Helper helperFunc_845 executed');
+
+export const helperFunc_187 = () => console.log('Helper helperFunc_187 executed');
