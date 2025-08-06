@@ -46,3 +46,5 @@ export default function PatientDetailsSection({ patientData }: PatientDetailsPro
     </div>
   )
 }
+
+// minor logic update 4387
