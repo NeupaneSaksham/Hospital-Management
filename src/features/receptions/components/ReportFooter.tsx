@@ -15,3 +15,5 @@ const ReportFooter: React.FC<ReportFooterProps> = ({ receptionist, thankYouMessa
 );
 
 export default ReportFooter;
+
+// minor logic update 4675
